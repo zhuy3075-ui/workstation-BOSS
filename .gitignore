@@ -1,0 +1,18 @@
+# Local OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# Optional local development dependencies
+node_modules/
+
+# Secrets and private business data: never commit backups or API keys
+.env
+.env.*
+!.env.example
+BOSS工作台备份-*.json
+backups/
+private/
+local-data/

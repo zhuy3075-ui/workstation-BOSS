@@ -1,0 +1,49 @@
+BOSS 工作台 · 非商业使用许可协议
+Copyright (c) 2026 @赛博老爸（Developed by @赛博老爸）
+
+本协议适用于「BOSS 工作台」（个人工作台系列第 8 期）的全部文件，
+包括 index.html、ai-proxy.js、说明文档与截图（下称「本软件」）。
+
+一、允许你做的事（免费）
+  1. 个人下载、使用、复制本软件；
+  2. 修改源代码、二次开发，供自己使用；
+  3. 免费分享本软件或你的修改版。
+  老板、个体工商户在自己的公司或门店里用本软件管理自己的生意，
+  属于本协议允许的正常使用，不需要另外申请授权。
+
+二、使用和分享时必须遵守
+  1. 保留作者署名「Developed by @赛博老爸」，不得删除或遮挡软件中的开发者水印；
+  2. 分享本软件或修改版时，附上本协议全文；
+  3. 修改版要写明「基于 BOSS 工作台（@赛博老爸）修改」，不得冒充原作者，
+     也不得宣称是自己原创。
+
+三、禁止任何形式的商业使用
+  未经作者书面授权，不得：
+  1. 出售本软件或任何修改版，包括以「源码」「安装包」「模板」等名义收费；
+  2. 以收费方式提供下载、安装、部署、代配置或二次开发服务；
+  3. 把本软件或修改版作为付费产品、付费课程、会员权益、赠品或 SaaS 服务的一部分；
+  4. 用本软件或修改版承接外包、为客户交付项目；
+  5. 其他以本软件本身获取经济利益的行为。
+  需要商用授权、企业定制或本地化部署，请联系：cyberdaddyleo@outlook.com
+
+四、免责声明
+  1. 本软件按「现状」免费提供，作者不对其适用性、稳定性和数据安全作任何担保；
+  2. 软件中的 AI 拆解、商机提炼、经营分析等内容由第三方 AI 生成，仅供经营参考，
+     AI 也会出错，一切经营决策请自行判断，后果由使用者自行承担；
+  3. 你的数据只保存在你自己电脑的浏览器里，请定期导出备份；
+     因清理浏览器、换电脑等造成的数据丢失，作者不承担责任；
+  4. 你自行配置的第三方 AI 服务（DeepSeek、通义千问、Kimi、智谱等）
+     由你自己申请和付费，请遵守相应服务商的用户协议。
+
+五、违约
+  违反本协议的，授权自动终止，作者保留依法追究责任的权利。
+
+------------------------------------------------------------
+English summary (the Chinese text above prevails):
+Free for personal, non-commercial use, modification and sharing, provided the
+"Developed by @赛博老爸" attribution and this license are kept. Business owners
+may use it to run their own business. Selling, paid distribution, paid
+installation/deployment, bundling into paid products or services, or using it
+for client delivery is prohibited without written permission. Provided "as is"
+without warranty; AI-generated content is for reference only.
+Contact for commercial licensing: cyberdaddyleo@outlook.com
